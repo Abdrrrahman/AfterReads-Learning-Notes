@@ -33,7 +33,9 @@ jdbc:[database_type]:[database_name]
 
 **4. Connection Object**
 Once the Driver Manager processes the JDBC URL, it returns a Connection object that serves as the gateway for all database operations.
+
 ![pic1](attachments/jdbc_pic1.png)
+
 https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/Architecture-of-JDBC.jpg
 ## Project Setup
 ### Maven Configuration
