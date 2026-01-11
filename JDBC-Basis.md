@@ -323,7 +323,9 @@ The progression from procedural JDBC code to object-oriented repository patterns
 ## More to read:
 ### Maven and Gradle:
 https://www.geeksforgeeks.org/java/difference-between-gradle-and-maven/
+
 https://www.javacodegeeks.com/2024/09/maven-and-gradle-a-side-by-side-comparison.html
 ### ORMs and Raw SQL:
 https://dev.to/hamzaj/raw-sql-or-orms-why-orms-are-a-preferred-choice-3dcl
+
 https://www.techtarget.com/searchSoftwareQuality/tip/ORM-vs-SQL-When-to-use-each
